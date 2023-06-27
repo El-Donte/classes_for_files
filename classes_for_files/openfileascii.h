@@ -19,7 +19,7 @@ public:
 						std::cout << std::endl;
 					}
 					else {
-						std::cout << (int)ch;
+						std::cout << (int)ch<<' ';
 					}
 					
 				}
